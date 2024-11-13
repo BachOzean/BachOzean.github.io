@@ -26,6 +26,94 @@ My current research focuses on how to train a smarter LLM . My interests a
 
 ---
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Intro.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OS-ATLAS: A Foundation Action Model for Generalist GUI Agents 🔥🔥](https://arxiv.org/abs/2410.23218) <span style="color:red">[Preprint]</span> \\
+Zhiyong Wu\*, Zhenyu Wu\*, **Fangzhi Xu**\*, Yian Wang\*, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao
+
+(\* means equal contributions)
+
+[**Code**](https://github.com/OS-Copilot/OS-Atlas) &nbsp;
+[**Project Page**](https://osatlas.github.io) &nbsp;
+[**Demo**](https://huggingface.co/spaces/maxiw/OS-ATLAS) &nbsp;
+[![](https://img.shields.io/github/stars/OS-Copilot/OS-Atlas?style=social&label=Code+Stars)](https://github.com/OS-Copilot/OS-Atlas)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ENVISIONS.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interative Evolution: A Neural-symbolic Self-Training Framework for Large Language Models 🔥🔥](http://arxiv.org/abs/2406.11736) <span style="color:red">[Preprint]</span> \\
+**Fangzhi Xu**, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu.
+
+[**Code**](https://github.com/xufangzhi/ENVISIONS) &nbsp;
+[**Project Page**](https://github.com/xufangzhi/ENVISIONS) &nbsp;
+[![](https://img.shields.io/badge/hf_downloads-%3E200-steelblue.svg)](https://github.com/xufangzhi/ENVISIONS) &nbsp;
+[![](https://img.shields.io/github/stars/xufangzhi/ENVISIONS?style=social&label=Code+Stars)](https://github.com/xufangzhi/ENVISIONS)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/symbol-llm.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Symbol-LLM: Towards Foundational Symbol-centric Interface
+For Large Language Models](https://arxiv.org/pdf/2311.09278) <span style="color:red">[CCF-A]</span> \\
+**Fangzhi Xu**, Zhiyong Wu, Qiushi Sun, Siyu Ren, Fei Yuan, Shuai Yuan, Qika Lin, Qiao Yu and Jun Liu.
+
+[**Code**](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
+[**Project Page**](https://xufangzhi.github.io/symbol-llm-page/) &nbsp;
+[![](https://img.shields.io/badge/hf_downloads-%3E300-steelblue.svg)](https://github.com/xufangzhi/Symbol-LLM) &nbsp;
+[![](https://img.shields.io/github/stars/xufangzhi/Symbol-LLM?style=social&label=Code+Stars)](https://github.com/xufangzhi/Symbol-LLM)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/Model.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PathReasoner: Modeling Reasoning Path with Equivalent Extension for Logical Question Answering](https://xufangzhi.github.io/) <span style="color:red">[CCF-A]</span> \\
+**Fangzhi Xu**, Qika Lin, Tianzhe Zhao, Jiawei Han, Jun Liu 
+
+[**Code**](https://github.com/xufangzhi/)
+  
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/radar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond](https://arxiv.org/abs/2306.09841) <span style="color:red">Under Review at IEEE TKDE [CCF-A]</span> \\
+**Fangzhi Xu**\*, Qika Lin\*, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria
+
+(\* means equal contributions)
+
+[**Code**](https://github.com/xufangzhi/)
+
+  
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2022</div><img src='images/ModelStructure.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning](https://arxiv.org/abs/2205.00731) <span style="color:red">[CCF-A]</span> \\
+**Fangzhi Xu**, Jun Liu, Qika Lin, Yudai Pan and Lingling Zhang
+
+[**Code**](https://github.com/xufangzhi/Logiformer/)
+  
+</div>
+</div>
+
 [//]: # (## News and Updates)
 
 [//]: # ()
