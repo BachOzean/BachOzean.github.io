@@ -2825,41 +2825,35 @@ img.mfp-img {
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 2em 0;
 }
 
 .paper-box .paper-box-image {
-    justify-content: center;
     display: flex;
-    width: 100%;
-    order: 2;
+    justify-content: center;
+    max-width: 40%; /* 设置宽度以实现左右布局 */
+    padding-right: 1em;
 }
 
 .paper-box .paper-box-image img {
-    max-width: 400px;
+    max-width: 100%;
     box-shadow: 3px 3px 6px #888;
     object-fit: cover;
 }
 
 .paper-box .paper-box-text {
-    max-width: 100%;
-    order: 1;
+    max-width: 60%; /* 设置宽度以实现左右布局 */
+    flex: 1;
 }
 
-@media (min-width: 768px) {
-    /* 假设 $medium 对应 768px */
-    .paper-box .paper-box-image {
-        justify-content: left;
-        min-width: 200px;
-        max-width: 40%;
-        order: 1;
+/* 小屏幕时改为上下排列 */
+@media (max-width: 768px) {
+    .paper-box {
+        flex-direction: column;
     }
-
-    .paper-box .paper-box-text {
-        justify-content: left;
-        padding-left: 2em;
-        max-width: 60%;
-        order: 2;
+    .paper-box .paper-box-image, .paper-box .paper-box-text {
+        max-width: 100%;
+        padding-right: 0;
     }
 }
 
